@@ -10,6 +10,7 @@ git remote rm destination            -- удалить удаленные реп
 ----
 
 первоначальная настройка
+
 git config --global user.name "John Doe"             |  git config --local user.name "John Doe"
 ----
 git config --global user.email \johndoe@example.com  |  git config --local user.email johndoe@example.com
