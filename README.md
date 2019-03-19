@@ -3,6 +3,7 @@ Useful git commands and tips
 
 
 git remote add origin \<proper URL\> -- добавить удаленный реп
+
 git push origin master               -- Push your branch to Github
 
 ----
