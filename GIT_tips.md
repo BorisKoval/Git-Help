@@ -30,5 +30,5 @@ git push <имя репозитария> <ветка>   -- Отправка из
 git push <origin> <master>              
 ----
   
-git clone https://<login>:<pass>@github.com/<login>/<project>.git --копирование приватного репозитария
+git clone https://<'login'>:<'pass'>@github.com/<'login'>/<'project'>.git --копирование приватного репозитария
 
