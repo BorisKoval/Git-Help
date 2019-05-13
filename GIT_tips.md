@@ -1,7 +1,7 @@
 # Git-Help
 Useful git commands and tips
 
-Initial settings
+Initial settings:
 
 git config --global user.name <"John Doe">             |  git config --local user.name <"John Doe">
 ----
@@ -27,10 +27,10 @@ git remote -v                        -- Get all remote repositories
 ----
 git remote rm destination            -- Delete all remote repositories
 ----
-git push <repository name> <branch>  -- Send changes to remote server
+git push \<repository name\> \<branch\>  -- Send changes to remote server
 ---
-git push <origin> <master>              
----
+git push \<origin\> \<master\>              
+
   
 git clone https://<'login'>:<'pass'>@github.com/<'login'>/<'project'>.git -- Private repository copying
 ---
