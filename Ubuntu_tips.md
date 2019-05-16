@@ -5,6 +5,10 @@ apt-get install
         apache2
         git
         mysql-server
+
+        libmysqlclient-dev
+        mysqlclient
+
         phpmyadmin php-mbstring php-gettext
                 <Во время первого диалога apache2 подсвечен, но не выбран. Если вы не нажмёте Пробел для выбора Apache,
                 установщик не переместит необходимые файлы в процессе установки.
