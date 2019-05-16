@@ -18,6 +18,11 @@ apt-get install
 pip install
 
         Django
+                Apache setting:
+                        apt-get install libapache2-mod-wsgi-py3
+
+
+                
 
         
 VS Code
