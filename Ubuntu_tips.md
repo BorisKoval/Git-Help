@@ -7,7 +7,7 @@ apt-get install
         mysql-server
 
         libmysqlclient-dev
-        mysqlclient
+                pip install mysqlclient
 
         phpmyadmin php-mbstring php-gettext
                 <Во время первого диалога apache2 подсвечен, но не выбран. Если вы не нажмёте Пробел для выбора Apache,
