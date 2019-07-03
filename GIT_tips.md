@@ -34,6 +34,8 @@ git push \<origin\> \<master\>
   
 git clone https://<'login'>:<'pass'>@github.com/<'login'>/<'project'>.git -- Private repository copying
 ---
+git status / git show   --- Show some git changes
+---
 https://htmlacademy.ru/blog/useful/git/how-to-squash-commits-and-why-it-is-needed --- Squash commits help
 ---
 
