@@ -34,4 +34,8 @@ git push \<origin\> \<master\>
   
 git clone https://<'login'>:<'pass'>@github.com/<'login'>/<'project'>.git -- Private repository copying
 ---
+https://htmlacademy.ru/blog/useful/git/how-to-squash-commits-and-why-it-is-needed --- Squash commits help
+---
 
+git reset --soft HEAD~1           --Undo last commit (Note the --soft flag: this makes sure that the changes in undone revisions are preserved. If you don't want to keep these changes, simply use the --hard flag)
+---- 
